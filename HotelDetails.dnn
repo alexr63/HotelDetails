@@ -6,7 +6,7 @@
       <foldername>HotelDetails</foldername>
       <modulename>HotelDetails</modulename>
       <description>A HotelDetails module</description>
-      <version>01.00.00</version>
+      <version>01.00.01</version>
       <businesscontrollerclass>Cowrie.HotelDetails.Components.HotelDetailsController</businesscontrollerclass>
       <modules>
         <module>

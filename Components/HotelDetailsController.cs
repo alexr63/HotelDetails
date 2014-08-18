@@ -13,7 +13,7 @@ using SelectedHotelsModel;
 
 namespace Cowrie.ProductDetails.Components
 {
-    public class ProductDetailsController : ISearchable
+    public class HotelDetailsController : ISearchable
 	{
 		#region ISearchable Members
 
